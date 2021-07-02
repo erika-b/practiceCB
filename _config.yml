@@ -33,7 +33,7 @@ author: eb
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: Copy of psychiana_cbdemo_gh - Sheet1
+metadata: psychiana_cbdemo
 
 ##########
 # GOOGLE SERVICES [optional!]
