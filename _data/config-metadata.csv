@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 creator,Creator,
 date,Date Created,
 description,Description,
+item_information,Item Information,true,,
 subject,Subjects,true
 location,Location
 latitude,Latitude
